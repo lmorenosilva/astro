@@ -6,7 +6,16 @@ author: 'Alumno de Astro'
 image:
   url: 'https://docs.astro.build/assets/full-logo-light.png'
   alt: 'El logotipo completo de Zanahoria Tech.'
-tags: ['dictado medico', 'Inteligencia Artificial',"IA" 'Electronic Health Record',"EHS","Registros Medicos Electronicos","RME" ]
+tags:
+  [
+    'dictado medico',
+    'Inteligencia Artificial',
+    'IA',
+    'Electronic Health Record',
+    'EHS',
+    'Registros Medicos Electronicos',
+    'RME',
+  ]
 ---
 
 # ¿Qué es el dictado médico impulsado por IA?
