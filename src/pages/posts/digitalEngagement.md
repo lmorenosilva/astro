@@ -1,5 +1,5 @@
 ---
-title: 'Dictado medico impulsado por IA '
+title: 'Interaccion Digital '
 pubDate: 02-07-2024
 description: ''
 author: 'Luis Moreno'
@@ -8,8 +8,8 @@ image:
   alt: 'El logotipo completo de Zanahoria Tech.'
 tags:
   [
-    'dictado medico',
-    'Inteligencia Artificial',
+    'Interaccion Digital',
+    'Servicio al cliente',
     'IA',
     'Electronic Health Record',
     'EHS',
