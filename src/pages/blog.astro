@@ -1,5 +1,6 @@
 ---
 const pageTitle = 'Blog '
+import Navigation from '../components/Navigation.astro'
 ---
 
 <html lang='en'>
@@ -11,14 +12,11 @@ const pageTitle = 'Blog '
     <title>{pageTitle}</title>
   </head>
   <body>
-    <a href='/'>Inicio</a>
-    <a href='/about/'>About us</a>
-    <a href='/blog/'>Blog</a>
-
+    <Navigation />
     <h1>{pageTitle}</h1>
+
     <h2>Mi Blog sobre Astro Aprendizaje!</h2>
 
-    <h2>!... Cualquier Verga Astro Blog</h2>
     <p>Aqui es donde publicare sobre mi aprendizaje Astro</p>
     <ul>
       <li><a href='/posts/post-1/'>Primera Publicacion</a></li>
