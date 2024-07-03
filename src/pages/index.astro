@@ -2,6 +2,10 @@
 const pageTitle = 'Inicio'
 
 import Navigation from '../components/Navigation.astro'
+
+import Footer from '../components/Footer.astro'
+
+import '../styles/global.css'
 ---
 
 <html lang='en'>
@@ -16,5 +20,7 @@ import Navigation from '../components/Navigation.astro'
     <Navigation />
 
     <h1>{pageTitle}</h1>
+
+    <Footer />
   </body>
 </html>
