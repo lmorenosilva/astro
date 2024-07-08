@@ -1,8 +1,10 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
+
 title: 'Dictado medico impulsado por IA '
 pubDate: 02-07-2024
 description: 'Primera publicacion de mi blog en Astro'
-author: 'Alumno de Astro'
+author: 'Luis A Moreno Silva'
 image:
   url: 'https://docs.astro.build/assets/full-logo-light.png'
   alt: 'El logotipo completo de Zanahoria Tech.'

@@ -1,4 +1,6 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
+
 title: 'Interaccion Digital '
 pubDate: 02-07-2024
 description: ''

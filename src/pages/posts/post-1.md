@@ -1,15 +1,15 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
+
 title: 'Mi primera publicacion'
 pubDate: 02-07-2024
 description: 'Primera publicacion de mi blog en Astro'
-author: 'Alumno de Astro'
+author: 'Luis Moreno'
 image:
   url: 'https://docs.astro.build/assets/full-logo-light.png'
   alt: 'El logotipo completo de Astro.'
 tags: ['astro', 'bloguear', 'aprender en público']
 ---
-
-Publicado el: 2022-07-01
 
 ¡Bienvenido a mi _nuevo blog_ sobre el aprendizaje de Astro! Aquí, voy a compartir mi viaje de aprendizaje a medida que construyo un nuevo sitio web.
 
