@@ -6,8 +6,8 @@ pubDate: 02-07-2024
 description: 'Primera publicacion de mi blog en Astro'
 author: 'Luis A Moreno Silva'
 image:
-  url: 'https://docs.astro.build/assets/full-logo-light.png'
-  alt: 'El logotipo completo de Zanahoria Tech.'
+  url: 'https://docs.astro.build/default-og-image.png'
+  alt: "La palabra 'astro' contra una ilustración de planetas y estrellas."
 tags:
   [
     'dictado medico',
