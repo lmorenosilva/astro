@@ -10,7 +10,7 @@ image:
   alt: "La palabra 'astro' contra una ilustración de planetas y estrellas."
 tags:
   [
-    'dictado medico',
+    'Dictado Medico',
     'Inteligencia Artificial',
     'IA',
     'Electronic Health Record',

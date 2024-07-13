@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 
 title: 'Interaccion Digital '
 pubDate: 02-07-2024
-description: ''
+description: 'Interaccion Digital'
 author: 'Luis Moreno'
 image:
   url: 'https://docs.astro.build/default-og-image.png'
@@ -14,7 +14,7 @@ tags:
     'Servicio al cliente',
     'IA',
     'Electronic Health Record',
-    'EHS',
+    'EHR',
     'Registros Medicos Electronicos',
     'RME',
   ]

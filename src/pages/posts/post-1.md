@@ -8,7 +8,16 @@ author: 'Luis Moreno'
 image:
   url: 'https://docs.astro.build/default-og-image.png'
   alt: "La palabra 'astro' contra una ilustración de planetas y estrellas."
-tags: ['astro', 'bloguear', 'aprender en público']
+tags:
+  [
+    'Dictado Medico',
+    'Inteligencia Artificial',
+    'IA',
+    'Electronic Health Record',
+    'EHR',
+    'Registros Medicos Electronicos',
+    'RME',
+  ]
 ---
 
 ¡Bienvenido a mi _nuevo blog_ sobre el aprendizaje de Astro! Aquí, voy a compartir mi viaje de aprendizaje a medida que construyo un nuevo sitio web.
