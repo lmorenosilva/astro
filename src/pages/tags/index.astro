@@ -1,7 +1,13 @@
 ---
 import BaseLayouts from '../../layouts/BaseLayouts.astro'
 
-const pageTitle = 'Pagina de etiquetas(tags)'
+const allPosts = await Astro.glob('../posts/*.md')
+
+const uniqueTags = [
+  ...new Set(allPosts.map((post) => post.frontmatter.tags).flat()),
+]
+
+const pageTitle = 'Indice de etiquetas(tags)'
 
 const tags = [
   'Dictado Medico',
@@ -15,7 +21,7 @@ const tags = [
 ---
 
 <BaseLayouts pageTitle={pageTitle}>
-  <h2>Pagina indice de etiquetas</h2>
+  <h2>Indice de etiquetas</h2>
 
-  <ul>{tags.map((tag) => <li>{tag}</li>)}</ul>
+  <div>{tags.map((tag) => <p>{tag}</p>)}</div>
 </BaseLayouts>

@@ -2,6 +2,10 @@
 const pageTitle = 'Inicio'
 
 import BaseLayouts from '../layouts/BaseLayouts.astro'
+
+export async function getStaticPaths() {
+  const allPosts = await Astro.glob('../posts/*.md')
+}
 ---
 
 <BaseLayouts pageTitle={pageTitle}>
