@@ -1,0 +1,21 @@
+---
+import BaseLayouts from '../../layouts/BaseLayouts.astro'
+
+const pageTitle = 'Pagina de etiquetas(tags)'
+
+const tags = [
+  'Dictado Medico',
+  'Inteligencia Artificial',
+  'IA',
+  'Electronic Health Record',
+  'EHR',
+  'Registros Medicos Electronicos',
+  'RME',
+]
+---
+
+<BaseLayouts pageTitle={pageTitle}>
+  <h2>Pagina indice de etiquetas</h2>
+
+  <ul>{tags.map((tag) => <li>{tag}</li>)}</ul>
+</BaseLayouts>
