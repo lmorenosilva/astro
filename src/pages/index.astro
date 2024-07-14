@@ -3,6 +3,8 @@ const pageTitle = 'Inicio'
 
 import BaseLayouts from '../layouts/BaseLayouts.astro'
 
+import Greeting from '../components/Greeting'
+
 export async function getStaticPaths() {
   const allPosts = await Astro.glob('../posts/*.md')
 }
@@ -10,4 +12,5 @@ export async function getStaticPaths() {
 
 <BaseLayouts pageTitle={pageTitle}>
   <h2>Cualquier verga</h2>
+  <Greeting client:load messages={['Hej', 'Hallo', 'Hola', 'Habari']} />
 </BaseLayouts>
