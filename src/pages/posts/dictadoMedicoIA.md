@@ -28,17 +28,17 @@ El dictado médico con IA utiliza tecnología de inteligencia artificial (IA) pa
 
 ## Beneficios del dictado médico con IA
 
-Si ha utilizado software de dictado médico de voz a texto desde 2015, ha utilizado dictado médico con IA. Básicamente, la IA introduce algoritmos más avanzados para hacer que el dictado automatizado sea más rápido y preciso que antes.
+Si ha utilizado software de dictado médico de voz a texto desde 2015, ha utilizado dictado médico con inteligencia Artificial (IA). Básicamente, la IA introduce algoritmos más avanzados para hacer que el dictado automatizado sea más rápido y preciso que antes.
 
 Dictar notas clínicas utilizando la conversión de voz a texto ofrece varios beneficios en comparación con escribir notas o utilizar un escribano médico o un transcriptor:
 
-Velocidad : pronunciar notas médicas es mucho más rápido que escribirlas . Además, el dictado médico de voz a texto se realiza en tiempo real, lo que permite a los médicos completar notas rápidamente y cerrar cuadros antes.
+**Velocidad :** pronunciar notas médicas es mucho más rápido que escribirlas . Además, el dictado médico de voz a texto se realiza en tiempo real, lo que permite a los médicos completar notas rápidamente y cerrar cuadros antes.
 
-Precisión : los proveedores generalmente revisan su dictado inmediatamente después de pronunciarlo, lo que les permite verificar la precisión mientras los detalles de la visita permanecen actualizados. Los modelos anteriores, como los servicios de transcripción médica externos, requerían la revisión del médico más tarde ese mismo día o al día siguiente, lo que creaba más margen de error.
+**Precisión :** los proveedores generalmente revisan su dictado inmediatamente después de pronunciarlo, lo que les permite verificar la precisión mientras los detalles de la visita permanecen actualizados. Los modelos anteriores, como los servicios de transcripción médica externos, requerían la revisión del médico más tarde ese mismo día o al día siguiente, lo que creaba más margen de error.
 
-Ahorro de costos : el software de conversión de voz a texto es mucho más económico que contratar un escribano o un servicio de transcripción médica.
+**Ahorro de costos :** el software de conversión de voz a texto es mucho más económico que contratar un escribano o un servicio de transcripción médica.
 
-Cómo la IA cambió la transcripción médica
+## Cómo la IA cambió la transcripción médica##
 
 Puede resultar útil pensar en el dictado médico de IA como la última etapa de la evolución en la transcripción sanitaria. Observe que cada era fue posible gracias a la nueva tecnología.
 
